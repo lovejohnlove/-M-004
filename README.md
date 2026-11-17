@@ -37,7 +37,7 @@ The four entries below are preserved as historical claims; the referenced artifa
 
 **Status:** §12 environment/run remains blocked. No experiment was executed. This intake makes no claim of novelty or experimental success.
 
-**Code artifacts — sealed and hash-verified:** the four files below were copied byte-for-byte; the SHA-256 values shown are the supplied recorded hashes.
+**SEAL STATUS: BYTE-STATE SEALED.** The four listed REBUILD-1 files are identified by their recorded SHA-256 hashes, and each `code/` file is byte-identical to its corresponding `unsealed/REBUILD-1/` file. This seal applies only to the four hash-identified local byte-states; provenance, preregistration compliance, runtime correctness, performance, concurrency, and any §12 result remain unverified.
 - `experiments/004c/code/diff_004c_REBUILD-1.py` — SHA-256 `05c787f759259e2bf96822575940a2f090e775d8eeb6e4666c66648192e6fc11` (7,220 bytes; 188 lines)
 - `experiments/004c/code/aggregate_004c_REBUILD-1.py` — SHA-256 `81170771423418c471c2c33990000f18490bbfd004d2557600401fa9a0b4c45c` (10,404 bytes; 250 lines)
 - `experiments/004c/code/server_004c_FINAL_REBUILD-1.py` — SHA-256 `57113d646488c1cefc36f4a45d9ba3fec208659253af5229f489b99a13478eda` (14,546 bytes; 243 lines)
